@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Bot0203010102",
+    "description": "I'm a bot!",
+    "external_url": "http://hyprprint.com/bot_full_jpg/Bot0203010102.jpg",
+    "image": "http://hyprprint.com/bot_300_jpg/Bot0203010102.jpg",
+    "attributes": [
+       {
+         "trait_type": "BackgroundColor",
+         "value": "orange"
+       },
+       {
+         "trait_type": "Material",
+         "value": "Chrome Blue"
+       },
+       {
+         "trait_type": "Superpower Level",
+         "value": 99
+       }
+    ]
+  },
+  {
+    "name": "Bot0202010203",
+    "description": "Call Me Rusty",
+    "external_url": "http://hyprprint.com/bot_full_jpg/Bot0202010203.jpg",
+    "image": "http://hyprprint.com/bot_full_jpg/Bot0202010203.jpg",
+    "attributes": [
+       {
+         "trait_type": "BackgroundColor",
+         "value": "grey"
+       },
+       {
+         "trait_type": "Material",
+         "value": "Rustoleum"
+       },
+       {
+         "trait_type": "Superpower Level",
+         "value": 0
+       }
+    ]
+  },
+  {
+    "name": "Bot0204020103",
+    "description": "The Calculator",
+    "external_url": "http://hyprprint.com/bot_full_jpg/Bot0204020103.jpg",
+    "image": "http://hyprprint.com/bot_full_jpg/Bot0204020103.jpg",
+    "attributes": [
+       {
+         "trait_type": "BackgroundColor",
+         "value": "blue"
+       },
+       {
+         "trait_type": "Material",
+         "value": "Math"
+       },
+       {
+         "trait_type": "Superpower Level",
+         "value": 45
+       }
+    ]
+  },
+  {
+    "name": "Bot0301010103",
+    "description": "Curious George 🍌",
+    "external_url": "http://hyprprint.com/bot_full_jpg/Bot0301010103.jpg",
+    "image": "http://hyprprint.com/bot_full_jpg/Bot0301010103.jpg",
+    "attributes": [
+       {
+         "trait_type": "BackgroundColor",
+         "value": "blue"
+       },
+       {
+         "trait_type": "Material",
+         "value": "Monkey"
+       },
+       {
+         "trait_type": "Superpower Level",
+         "value": 2
+       }
+    ]
+  },
+  {
+    "name": "Bot 0101010202",
+    "description": "Better than an ox",
+    "external_url": "http://hyprprint.com/bot_full_jpg/Bot0101010202.jpg",
+    "image": "http://hyprprint.com/bot_300_jpg/Bot0101010202.jpg",
+    "attributes": [
+       {
+         "trait_type": "BackgroundColor",
+         "value": "blue"
+       },
+       {
+         "trait_type": "Eyes",
+         "value": "googly"
+       },
+       {
+         "trait_type": "Stamina",
+         "value": 59
+       }
+    ]
+  }
+]
